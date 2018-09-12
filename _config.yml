@@ -111,10 +111,10 @@ menu_icons:
 # ---------------------------------------------------------------
 
 # Schemes
-scheme: Gemini
+#scheme: Muse
 #scheme: Mist
 #scheme: Pisces
-#scheme: Gemini
+scheme: Gemini
 
 
 # ---------------------------------------------------------------
@@ -149,11 +149,11 @@ social_icons:
 
 # Blog rolls
 links_icon: link
-links_title: Links
+links_title: 友情链接
 links_layout: block
 #links_layout: inline
-#links:
-  #Title: http://example.com/
+links:
+  Jahng Web开发: http://www.jahng.cn/
 
 # Sidebar Avatar
 # in theme directory(source/images): /images/avatar.gif
@@ -365,7 +365,7 @@ baidu_analytics: acaa629e33b1a6b142722b2c4f9bb635
 # Disqus
 disqus:
   enable: true
-  shortname: Jason Yip
+  shortname: jason-yip
   count: true
 
 # Hypercomments
